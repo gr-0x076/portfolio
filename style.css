@@ -460,7 +460,10 @@ form .btn2 {
     height: 100vh;
     background: url('images/1759659014870.jpg') no-repeat center/cover;
 }
-
+.header-text {
+    margin-top: 70%;
+    text-align: center;
+}
 
     .contact-left p {
         text-align: left;
@@ -578,4 +581,5 @@ form .btn2 {
     .menu-toggle:checked~.close-icon {
         display: block;
     }
+
 }
